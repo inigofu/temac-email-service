@@ -1,4 +1,4 @@
-# Shippy Email Service
+# temac Email Service
 
 ```
 $ make build
